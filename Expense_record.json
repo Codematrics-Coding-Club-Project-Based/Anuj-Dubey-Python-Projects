@@ -1,0 +1,74 @@
+{
+    "27290": {
+        "Name": "Anuj",
+        "Your_ID": "27290",
+        "expense": [
+            {
+                "Category_ID": 7362,
+                "Description": "Bus",
+                "Amount": "250",
+                "Category": "Travel",
+                "Date": "2026-05-19"
+            }
+        ]
+    },
+    "95996": {
+        "Name": "shivam Gupta",
+        "Your_ID": "95996",
+        "expense": [
+            {
+                "Category_ID": 3339,
+                "Description": "Dal Makni",
+                "Amount": "150",
+                "Category": "Food",
+                "Date": "2026-05-20"
+            },
+            {
+                "Category_ID": 5129,
+                "Description": "Bus Convience",
+                "Amount": "250",
+                "Category": "Travel",
+                "Date": "2026-05-20"
+            },
+            {
+                "Category_ID": 7118,
+                "Description": "2 bedrooms",
+                "Amount": "600",
+                "Category": "Hotel",
+                "Date": "2026-05-20"
+            }
+        ]
+    },
+    "60165": {
+        "Name": "Anuj",
+        "Your_ID": "60165",
+        "expense": []
+    },
+    "18933": {
+        "Name": "Anuj",
+        "Your_ID": "18933",
+        "expense": [
+            {
+                "Category_ID": 1264,
+                "Description": "Bus",
+                "Amount": "1200",
+                "Category": "Travel",
+                "Date": "2026-05-23"
+            },
+            {
+                "Category_ID": 2825,
+                "Description": "Room book",
+                "Amount": "500",
+                "Category": "Hotel",
+                "Date": "2026-05-23"
+            },
+            {
+                "Category_ID": 2950,
+                "Description": "Shani Panner with naan ",
+                "Amount": "500",
+                "Category": "Food",
+                "Date": "2026-05-23"
+            }
+        ]
+    }
+}

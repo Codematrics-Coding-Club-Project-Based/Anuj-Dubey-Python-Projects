@@ -1,0 +1,52 @@
+{
+    "714870": {
+        "Name": "Anuj",
+        "age": 20,
+        "Class": 12,
+        "Maths": 95,
+        "Science": 94,
+        "English": 96,
+        "SST": 97,
+        "Hindi": 91,
+        "Percentage": 0,
+        "status": "Pass"
+    },
+    "535080": {
+        "Name": "Krishna ",
+        "age": 21,
+        "Class": 12,
+        "Maths": 95,
+        "Science": 96,
+        "English": 85,
+        "SST": 94,
+        "Hindi": 84,
+        "Percentage": 0,
+        "status": "Pass"
+    },
+    "679083": {
+        "Name": "Himanshu",
+        "age": 21,
+        "Class": 12,
+        "Maths": 98,
+        "Science": 95,
+        "English": 94,
+        "SST": 9,
+        "Hindi": 6,
+        "Percentage": 0,
+        "status": "Pass"
+    },
+    "424646": {
+        "Name": "Abhay",
+        "Age": 18,
+        "Class": 12,
+        "Enrolled": "08-05-2026",
+        "Maths": null,
+        "Science": null,
+        "English": null,
+        "SST": null,
+        "Hindi": null,
+        "Percentage": null,
+        "Grade": null,
+        "Status": "Pending"
+    }
+}
